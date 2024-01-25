@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonCourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddTwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Break&amp;ContinueKeywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstProgram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputKeyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RangeFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inKeyword.py" afterDir="false" />
+    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="2nd Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d9752fa2-a34d-4162-93b6-ba4a7fcc6f95" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -77,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -96,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705978605498</updated>
     </task>
+    <task id="LOCAL-00001" summary="2nd Commit">
+      <option name="closed" value="true" />
+      <created>1706151986964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706151986965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit" />
   </component>
 </project>
