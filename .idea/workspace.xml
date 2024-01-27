@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="For Loop Iterate Over A List">
-      <change afterPath="$PROJECT_DIR$/NestedLoops.py" afterDir="false" />
-    </list>
+    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="Added Pattern Code In For Loop File" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
     "Python.Keywords.executor": "Run",
     "Python.List.executor": "Run",
     "Python.LogicalOperators.executor": "Run",
-    "Python.NestedLoops.executor": "Run",
+    "Python.NestedLoops.executor": "Debug",
     "Python.RangeFunction.executor": "Run",
     "Python.Set.executor": "Run",
     "Python.Strings.executor": "Run",
@@ -132,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706334444081</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Pattern Code In For Loop File">
+      <option name="closed" value="true" />
+      <created>1706335219401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706335219401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Pattern Code In For Loop File">
+      <option name="closed" value="true" />
+      <created>1706335314949</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706335314949</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +155,7 @@
     <MESSAGE value="TypesOfStrings" />
     <MESSAGE value="Recent Commit" />
     <MESSAGE value="For Loop Iterate Over A List" />
-    <option name="LAST_COMMIT_MESSAGE" value="For Loop Iterate Over A List" />
+    <MESSAGE value="Added Pattern Code In For Loop File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Pattern Code In For Loop File" />
   </component>
 </project>
