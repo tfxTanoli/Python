@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="DateTime">
-      <change afterPath="$PROJECT_DIR$/TypesOfStrings.py" afterDir="false" />
+    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="TypesOfStrings">
+      <change afterPath="$PROJECT_DIR$/WeightConverter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypesOfStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TypesOfStrings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Python.Break&ContinueKeywords.executor": "Run",
     "Python.DateTime.executor": "Run",
     "Python.Dictionary.executor": "Run",
+    "Python.FileHandling.executor": "Run",
     "Python.FirstProgram.executor": "Run",
     "Python.Functions.executor": "Run",
     "Python.InputKeyword.executor": "Run",
@@ -57,11 +58,13 @@
     "Python.Tuple.executor": "Run",
     "Python.TypesOfStrings.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.WeightConverter.executor": "Run",
     "Python.WhileLoop.executor": "Run",
     "Python.inKeyword.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Usman/PycharmProjects/PythonCourse",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -105,12 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706236931779</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TypesOfStrings">
+      <option name="closed" value="true" />
+      <created>1706237689718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706237689718</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd Commit" />
     <MESSAGE value="DateTime" />
-    <option name="LAST_COMMIT_MESSAGE" value="DateTime" />
+    <MESSAGE value="TypesOfStrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="TypesOfStrings" />
   </component>
 </project>

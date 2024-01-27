@@ -18,3 +18,10 @@ print(message[3])
 
 for i in message:
     print(i)
+
+#Formatted Strings
+firstName = "Muhammad"
+lastName = 'Usman'
+
+msg = f"{firstName} [{lastName}] is a coder"
+print(msg)
