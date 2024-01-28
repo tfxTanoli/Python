@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="Remove Duplicates From List">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
-    </list>
+    <list default="true" id="0a5d515d-c145-4b6f-8182-37361d1bbc81" name="Changes" comment="Dictionary Exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706409933562</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Dictionary Exercise">
+      <option name="closed" value="true" />
+      <created>1706411230340</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706411230340</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,6 +221,7 @@
     <MESSAGE value="How To Find Largest Number In A List" />
     <MESSAGE value="2D Lists (Compile And RunTime)" />
     <MESSAGE value="Remove Duplicates From List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates From List" />
+    <MESSAGE value="Dictionary Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionary Exercise" />
   </component>
 </project>
